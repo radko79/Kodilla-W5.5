@@ -1,0 +1,21 @@
+.carousel {
+  background-color: #222222;
+}
+
+.carousel img {
+  margin: auto;
+}
+
+.container .tab-content img {
+  display: table;
+  margin: 0 auto;
+}
+
+.modalSection {
+  display: table;
+  margin: 50px auto;
+}
+
+.modalSection p span {
+  font-weight: bold;
+}
